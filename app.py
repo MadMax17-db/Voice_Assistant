@@ -35,7 +35,7 @@ PREDEFINED_RESPONSES = {
     "who made you": "I was created by a best developer who also created EDITH using Python on macOS.",
     "open google": open_google,
 
-    "what is lakshya 2047": "Lakshya 2047 is a state-of-the-art skill development and innovation center established to provide industry-oriented education, hands-on training, advanced laboratories, and research facilities for students.",
+    "what is lakshya 2047 ": "Lakshya 2047 is a state-of-the-art skill development and innovation center established to provide industry-oriented education, hands-on training, advanced laboratories, and research facilities for students.",
     "when was lakshya 2047 inaugurated": "Lakshya 2047 was inaugurated on 8 May 2026.",
     "who inaugurated lakshya 2047": "Lakshya 2047 was inaugurated by Dr. Jitendra Singh.",
     "who is dr jitendra singh": "Dr. Jitendra Singh is an Indian physician and politician serving as the 18th Minister of Science and Technology and Minister of Earth Sciences since 2024.",
